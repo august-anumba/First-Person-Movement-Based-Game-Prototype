@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    // followed tutorial from not copied https://www.youtube.com/watch?v=f473C43s8nE
+
     [Header("Movement")]
     private float moveSpeed;
     public float walkSpeed;
